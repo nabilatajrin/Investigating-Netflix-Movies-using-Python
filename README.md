@@ -1,4 +1,4 @@
-# Investigating-Netflix-Movies-using-Python
+# Investigating Netflix movies using python
 
 Suppose, we suspect that movies are getting shorter and we've found some initial evidence of this. Having peaked our interest, we will perform exploratory data analysis on the netflix_data.csv data to understand what may be contributing to movies getting shorter over time.
 
